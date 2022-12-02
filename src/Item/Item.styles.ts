@@ -5,7 +5,7 @@ let style: {
   'flex-direction': string;
   'width': string;
   'border': string;
-  'borderradius': string;
+  'border-radius': string;
   'height': string;
 } = {
   'display': 'flex',
@@ -13,7 +13,7 @@ let style: {
   'flex-direction': 'column',
   'width': '100%',
   'border': '1px solid lightblue',
-  'borderradius': '20px',
+  'border-radius': '20px',
   'height': '100%'
 }
 let button = {
